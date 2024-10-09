@@ -11,4 +11,4 @@ string result = text1 + text2;
 int resultInt = tal1 + tal2;
 
 Console.WriteLine(result);
-Console.WriteLine(resultInt);
+Console.WriteLine(resultInt); 
